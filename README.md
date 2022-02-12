@@ -1,5 +1,5 @@
 # ECovidAPP
-This was my first project with Flutter. I used a public API about Pandemy statistics.
+This was my first project with **Flutter**. I used a public API about Pandemy statistics.
 
 * Covid API: https://api.covid19api.com/summary
 
